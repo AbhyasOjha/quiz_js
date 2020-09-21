@@ -1,0 +1,9 @@
+{
+  "name": "quiz",
+  "version": "0.0.0",
+  "description": "quiz",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
